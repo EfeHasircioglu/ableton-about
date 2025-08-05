@@ -1,0 +1,42 @@
+@import "tailwindcss";
+@font-face {
+  font-family: "Futura";
+  src: url("/font/FuturaCyrillicLight.woff") format("woff2");
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Futura";
+  src: url("/font/FuturaCyrillicBook.woff") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Futura";
+  src: url("/font/FuturaCyrillicMedium.woff") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Futura";
+  src: url("/font/FuturaCyrillicDemi.woff") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Futura";
+  src: url("/font/FuturaCyrillicBold.woff") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Futura";
+  src: url("/font/FuturaCyrillicExtraBold.woff") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+}
+* {
+  font-family: "Futura";
+}
